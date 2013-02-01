@@ -15,7 +15,7 @@ We love the work you guys do, you make things look cool but the following would 
     + We use a tool called to do this called ResourceHelper on OS X which is available on the apple@twentysix account and wouldn't be upset if you want to provide both sizes.
 + Assets should be delivered with a filename in the format **@2x.png** so we don't have to rename them.
 + Buttons should be a minimum of **40px * 40px** **(80px * 80px @2x)**
-    + You can get away with **30px + ** but **40px** will never cause problems.
+    + You can get away with **30px** +  but **40px** will never cause problems.
 
 ## Consistency
 + If one button is **80 px * 80 px** the button next to it should also be the same and not **82 px * 82 px** with more transparency.
@@ -23,5 +23,5 @@ We love the work you guys do, you make things look cool but the following would 
 + We like numbers that are easy to remember e.g. divisible by 10.
 + Be consistent with a naming convention.
     + No spaces in filenames, replace with an underscore, filenames all lowercase.
-    <code>button_name_on / button_name_off / button_name_disabled</code>
+    <code>button_name_on@2px.png. button_name_off@2px.png. button_name_disabled@2px.png.</code>
     
