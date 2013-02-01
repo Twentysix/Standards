@@ -22,6 +22,6 @@ We love the work you guys do, you make things look cool but the following would 
 + The on version of a button should be the exact same dimensions as the off version so we dont have to move them about based on current state.
 + We like numbers that are easy to remember e.g. divisible by 10.
 + Be consistent with a naming convention.
-    + No spaces in filenames, replace with an underscore.
-    + <notextile>button_name_on / button_name_off / button_name_disabled</notextile>
-    + filenames all lowercase.
+    + No spaces in filenames, replace with an underscore, filenames all lowercase.
+    <code>button_name_on / button_name_off / button_name_disabled</code>
+    
